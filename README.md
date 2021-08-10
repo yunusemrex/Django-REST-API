@@ -1,2 +1,0 @@
-# DJANGO-REST-API
- Django-Rest-API
